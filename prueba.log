@@ -1,0 +1,15 @@
+{ | Inicio
+x26 | Identificador
+= | Asignacion
+35 | Numero
++ | OpTermino
+35.12 | Numero
+. | Caracter
+. | Caracter
+. | Caracter
+. | Caracter
+. | Caracter
+; | FinSentencia
+. | Caracter
+12 | Numero
+} | Fin
